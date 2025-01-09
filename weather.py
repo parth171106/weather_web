@@ -25,5 +25,5 @@ if __name__=="__main__":
         city="Surat"
 
     weather_data = current_weather(city) 
+    
     pprint(weather_data)
-
