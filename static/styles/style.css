@@ -6,13 +6,15 @@
 }
 
 body {
+    background-image: url(Screenshot\ 2025-01-10\ 184436.png);
     font-family: Arial, sans-serif;
     min-height: 100vh;
     display: flex;
+    background-size: cover;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(135deg, #00b4d8, #48cae4);
+    /* background: linear-gradient(135deg, #00b4d8, #48cae4); */
     padding: 20px;
 }
 
